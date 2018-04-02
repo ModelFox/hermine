@@ -1,0 +1,14 @@
+{
+  "name": "hermine",
+  "version": "1.0.0",
+  "description": "Salut ! Moi c'est Hermine ! La mascotte de l'émission \"reset System\" ! (Bot crée par ModelFox et Hermine crée par MisterFlech)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ModelFox",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
